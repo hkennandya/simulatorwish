@@ -28,6 +28,7 @@
             <ol class="begin-alert">&#10022; This is only a simulation program and not affect anything in your game</ol>
             <ol class="begin-alert">&#10022; Please take care to expose anything about your account information</ol>
             <ol class="begin-alert">&#10022; If you are looking for a list of banners, you can go to the <a href="archive"><b>archive</b></a></ol>
+            <ol class="begin-alert">&#10022; Source code : <a href="https://github.com/keqingcu/simulatorwish">Github Repository</a></ol>
         </ul>
     </div>
 
