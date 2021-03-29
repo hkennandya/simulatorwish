@@ -1,0 +1,7 @@
+ErrorDocument 400 /404/
+ErrorDocument 401 /404/
+ErrorDocument 403 /404/
+ErrorDocument 404 /404/
+ErrorDocument 500 /404/
+
+Options -Indexes
