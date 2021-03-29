@@ -2,7 +2,7 @@
 
     $servername = "sql111.epizy.com";
     $username = "epiz_28212656";
-    $password = "efgDBGV7XF";
+    $password = "*******";
     $dbname = "epiz_28212656_simulator_wish";
 
     $conn = new mysqli($servername, $username, $password, $dbname);
