@@ -2,7 +2,7 @@
     <div class="loading">
         <img src="../../../images/loading.gif" width="80">
     </div>
-</div>
+</div> 
 
 <form action="../../inventory" method="post">
     <button type = "submit" class="header-inventory" name="chara"><b>Inventory</b></button>

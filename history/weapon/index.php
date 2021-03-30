@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
     <title>History Weapon - Simulator Wish Genshin Impact</title>
     <link rel="icon" href="../../../images/icon.jpg">
-    <link rel="stylesheet" href="../../style.css">
-<script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <link rel="stylesheet" href="../../styles.css">
+<script src="//code.jquery.com/jquery-2.2.1.min.js"></script>
     <script>
         $(document).ready(function(){
         $(".preloader").fadeOut();

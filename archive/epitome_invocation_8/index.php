@@ -7,7 +7,7 @@
     <title>Epitome Invocation - Simulator Wish Genshin Impact</title>
     <link rel="icon" href="../../images/icon.jpg">
     <link rel="stylesheet" href="../../style.css">
-<script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
+<script src="//code.jquery.com/jquery-2.2.1.min.js"></script>
     <script>
         $(document).ready(function(){
         $(".preloader").fadeOut();
