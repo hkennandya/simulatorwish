@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
+    <meta name="keywords" content="Genshin Impact Simulator Wish or Simulation Gacha">
+    <meta name="description" content="Simulation of wish or gacha from game Genshin Impact">    
     <title>Error 404 - Simulator Wish Genshin Impact</title>
     <link rel="icon" href="../../images/icon.jpg">
     <link rel="stylesheet" href="../../styles.css">
