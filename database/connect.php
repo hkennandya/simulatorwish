@@ -2,7 +2,7 @@
 
     $servername = "sql111.epizy.com";
     $username = "epiz_28212656";
-    $password = "*******";
+    $password = "efgDBGV7XF";
     $dbname = "epiz_28212656_simulator_wish";
 
     $conn = new mysqli($servername, $username, $password, $dbname);
@@ -156,6 +156,14 @@
     SELECT name, tier, image, main, secondary FROM epitome_invocation_9";
     $conn->query($weapontodata);
 
+        //Tartaglia
+    $charactertodata = "INSERT IGNORE INTO datacharacter (name, tier, image, main, secondary) 
+    SELECT name, tier, image, main, secondary FROM farewell_of_snezhnaya_2";
+    $conn->query($charactertodata);
+
+    $weapontodata = "INSERT IGNORE INTO datacharacter (name, tier, image, main, secondary) 
+    SELECT name, tier, image, main, secondary FROM epitome_invocation_10";
+    $conn->query($weapontodata);
 
     //ALL VERSION
     $standardtodata = "INSERT IGNORE INTO datacharacter (name, tier, image, main, secondary) 

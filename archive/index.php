@@ -71,6 +71,26 @@
         <tr ><td colspan=2 class="archive-list2" id="1.4ver"><b>Version 1.4</b></td></tr>
         <tr>
             <td class="archive-list">
+            <a href="../../../archive/epitome_invocation_10/"><img src="../../images/banner/skyward lost 1.4.png" style="max-width:95%"></a></br></br>
+            <a href="../../../archive/epitome_invocation_10/">Epitome Invocation</br>(Weapon Wish)</a></td>
+            <td class="archive-list">   Skyward Harp 5&#9733;</br>
+                                        Lost Prayer to the Sac... 5&#9733;</br>
+                                        Alley Hunter 4&#9733;</br>
+                                        and more</br>
+            </td>     
+        </tr>
+        <tr>
+            <td class="archive-list">
+            <a href="../../../archive/farewell_of_snezhnaya_2/"><img src="../../images/banner/tartaglia 1.4.png" style="max-width:95%"></a></br></br>
+            <a href="../../../archive/farewell_of_snezhnaya_2/">Farewell of Snezhnaya</br>(Character Wish)</a></td>
+            <td class="archive-list">   Tartaglia 5&#9733;</br>
+                                        Rosaria 4&#9733;</br>
+                                        Barbara  4&#9733;</br>
+                                        Fischl 4&#9733;</br>
+            </td> 
+        </tr>
+        <tr>
+            <td class="archive-list">
             <a href="../../../archive/epitome_invocation_9/"><img src="../../images/banner/elegy alley 1.4.jpg" style="max-width:95%"></a></br></br>
             <a href="../../../archive/epitome_invocation_9/">Epitome Invocation</br>(Weapon Wish)</a></td>
             <td class="archive-list">  Elegy for the End 5&#9733;</br>

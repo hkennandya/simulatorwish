@@ -35,7 +35,7 @@
         </ul>
     </div>
 
-    <!-- If beginners wish < 20 -->
+    <!-- BEGINNER WISH ONLY IF < 20 -->
     <?php 
         require_once "database/connect.php";
         $sql = "SELECT * FROM pity_beginners WHERE id=$user_id";
@@ -45,14 +45,21 @@
     ?>
 
     <div class="main-content" id="beginners">
-    <!--BALLAD IN GOBLETS BANNER-->
     <?php
     require_once "archive/beginners_wish_home/beginners.php";
     ?>
-    <!--BALLAD IN GOBLETS BANNER-->
     </div>
 
     <?php } ?>
+    <!-- BEGINNER WISH ONLY IF < 20 -->
+
+    <div class="main-content">
+    <!--UPCOMING BANNER-->
+    <?php
+    require_once "upcoming.php";
+    ?>
+    <!--UPCOMING BANNER-->
+    </div>
 
     <div class="main-content" id="character">
     <!--BALLAD IN GOBLETS BANNER-->

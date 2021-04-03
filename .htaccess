@@ -5,3 +5,5 @@ ErrorDocument 404 /404/
 ErrorDocument 500 /404/
 
 Options -Indexes
+
+php_value display_errors On
