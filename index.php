@@ -53,18 +53,19 @@
     <?php } ?>
     <!-- BEGINNER WISH ONLY IF < 20 -->
 
-    <div class="main-content">
+    <!-- UPCOMING COMMENT -->
+    <!-- <div class="main-content"> -->
     <!--UPCOMING BANNER-->
     <?php
-    require_once "upcoming.php";
+    //require_once "upcoming.php";
     ?>
     <!--UPCOMING BANNER-->
-    </div>
+    <!--</div>-->
 
     <div class="main-content" id="character">
     <!--BALLAD IN GOBLETS BANNER-->
     <?php
-    require_once "archive/ballad_in_goblets_2/character.php";
+    require_once "archive/farewell_of_snezhnaya_2/character.php";
     ?>
     <!--BALLAD IN GOBLETS BANNER-->
     </div>
@@ -72,7 +73,7 @@
     <!--WEAPON-->
     <div class="main-content"id="weapon">
         <?php
-        require_once "archive/epitome_invocation_9/weapon.php";
+        require_once "archive/epitome_invocation_10/weapon.php";
         ?>
     </div>
     <!--WEAPON-->
